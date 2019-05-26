@@ -7,7 +7,7 @@
 $ git clone git@github.com:akstsh11/Baseconnect-Elastic-6.4.git
 $ cd Baseconnect-Elastic-6.4
 
-## Dockerイメージをビルドする
+## Dockerイメージをビルドする(最初に1回だけ)
 $ docker-compose build
 
 ## コンテナ起動
